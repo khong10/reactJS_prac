@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 import Person from './Person/Person';
 
 class Persons extends Component {
-    // only works in creation cycle
   // static getDerivedStateFromProps(props, state) {
   //   console.log('[Persons.js] getDerivedStateFromProps');
   //   return state;
